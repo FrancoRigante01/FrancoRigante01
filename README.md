@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hola, soy Franco Rigante
 
-<!--
-**FrancoRigante01/FrancoRigante01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabajo actualmente como Ingeniero en Software y soy estudiante de la carrera de Licencitura en Artes Electrónicas. Quiero seguir aprendiendo y desarrollandome en desarrollo web, ciberseguridad y diseño de videojuegos.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas que utilizo/utilicé
+**💻 Lenguajes:** Python, Javascript, Typescript
+**⚙️ Frameworks:** React, Node.js, Django, Pandas, NumPy, Matplotlib
+**🗄️ Bases de datos:** Firebase
+**🛠️ Herramientas:** Git, Vite, Firebase, Insomnia, npm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos personales
+- [Pokemon App](https://github.com/FrancoRigante01/Pokemon-App)  
+  Web app que consume APIs para mostrar información de pokémons. Incluye manejo de base de datos, optimización de carga y diseño responsivo.  
+  **Tecnologías:** React, Firebase, Typescript 
+
+- [Driftbot](https://github.com/FrancoRigante01/Driftbot)  
+  Videojuego tipo arcade desarrollado para navegador.  
+  **Tecnologías:** React, TypeScript, CSS
+
+## 📫 Contacto
+- Email: francorigante01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/franco-rigante/
