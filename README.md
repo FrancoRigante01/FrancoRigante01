@@ -1,12 +1,12 @@
 # 👋 Hola, soy Franco Rigante
 
-Trabajo actualmente como Ingeniero en Software y soy estudiante de la carrera de Licencitura en Artes Electrónicas. Quiero seguir aprendiendo y desarrollandome en desarrollo web, ciberseguridad y diseño de videojuegos.
+Trabajo actualmente como Ingeniero en Software y soy estudiante de la carrera de Licenciatura en Artes Electrónicas. Quiero seguir aprendiendo y desarrollandome en desarrollo web, ciberseguridad y diseño de videojuegos.
 
 ## 🛠️ Tecnologías y herramientas que utilizo/utilicé
 **💻 Lenguajes:** Python, Javascript, Typescript
 **⚙️ Frameworks:** React, Node.js, Django, Pandas, NumPy, Matplotlib
 **🗄️ Bases de datos:** Firebase
-**🛠️ Herramientas:** Git, Vite, Firebase, Insomnia, npm
+**🛠️ Herramientas:** Git, Vite, Insomnia, npm
 
 ## 🚀 Proyectos personales
 - [Pokemon App](https://github.com/FrancoRigante01/Pokemon-App)  
