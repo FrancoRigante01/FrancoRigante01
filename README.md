@@ -24,3 +24,5 @@ Soy estudiante de la carrera en Licenciatura en Artes Electrónicas. Trabajo act
 ## 📫 Contacto
 - Email: francorigante01@gmail.com
 - LinkedIn: https://www.linkedin.com/in/franco-rigante/
+- CV: [CV-Franco-Rigante.pdf](https://github.com/user-attachments/files/23571089/CV-Franco-Rigante.pdf)
+
