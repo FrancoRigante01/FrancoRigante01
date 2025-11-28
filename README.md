@@ -10,15 +10,15 @@ Soy estudiante de la carrera en Licenciatura en Artes Electrónicas. Trabajo act
 
 ## 🚀 Proyectos personales
 - [Portfolio web](https://franco-rigante-portfolio.netlify.app/)  
-   Porfolio web personal para mostrar proyectos, experiencias y habilidades personales.
+   Porfolio web personal para mostrar proyectos, experiencias y habilidades personales.           
   **Tecnologías:** Astro, Javascript, CSS 
   
 - [Pokemon App](https://github.com/FrancoRigante01/Pokemon-App)  
-  Web app que consume APIs para mostrar información de pokémons. Incluye manejo de base de datos, optimización de carga y diseño responsivo.  
-  **Tecnologías:** React, Firebase, Typescript 
+  Web app que consume APIs para mostrar información de pokémons. Incluye manejo de base de datos, optimización de carga y diseño responsivo.   
+  **Tecnologías:** React, Firebase, Typescript  
 
 - [Hipnos](https://github.com/FrancoRigante01/Hipnos)  
-  Aplicación web interactiva para interpretar sueños.
+  Aplicación web interactiva para interpretar sueños.         
   **Tecnologías:** Astro, Javascript, CSS
 
 ## 📫 Contacto
