@@ -17,9 +17,9 @@ Soy estudiante de la carrera en Licenciatura en Artes Electrónicas. Trabajo act
   Web app que consume APIs para mostrar información de pokémons. Incluye manejo de base de datos, optimización de carga y diseño responsivo.  
   **Tecnologías:** React, Firebase, Typescript 
 
-- [Driftbot](https://github.com/FrancoRigante01/Driftbot)  
-  Videojuego tipo arcade desarrollado para navegador.  
-  **Tecnologías:** React, TypeScript, CSS
+- [Hipnos](https://github.com/FrancoRigante01/Hipnos)  
+  Aplicación web interactiva para interpretar sueños  
+  **Tecnologías:** Astro, Javascript, CSS
 
 ## 📫 Contacto
 - Email: francorigante01@gmail.com
