@@ -18,7 +18,7 @@ Soy estudiante de la carrera en Licenciatura en Artes Electrónicas. Trabajo act
   **Tecnologías:** React, Firebase, Typescript 
 
 - [Hipnos](https://github.com/FrancoRigante01/Hipnos)  
-  Aplicación web interactiva para interpretar sueños  
+  Aplicación web interactiva para interpretar sueños.
   **Tecnologías:** Astro, Javascript, CSS
 
 ## 📫 Contacto
