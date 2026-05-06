@@ -1,12 +1,12 @@
 # 👋 Hola, soy Franco Rigante
 
-Soy estudiante de la carrera en Licenciatura en Artes Electrónicas. Trabajo actualmente como Desarrollador en Software en Softtek. Me interesa seguir desarrollandome y aprendiendo en las áreas del desarrollo web, la ciberseguridad y el diseño de videojuegos.
+Soy estudiante de la carrera en Licenciatura en Artes Electrónicas. Trabajo actualmente como Desarrollador de Software en Softtek. Me interesa seguir desarrollandome y aprendiendo en las áreas del desarrollo web, la ciberseguridad y el diseño de videojuegos.
 
 ## 🛠️ Tecnologías y herramientas que utilizo/utilicé
 **💻 Lenguajes:** Javascript, Typescript, CSS
 **⚙️ Frameworks:** React, Astro, Vite
 **🗄️ Bases de datos:** Firebase
-**🛠️ Herramientas:** Git, Insomnia, npm
+**🛠️ Herramientas:** Git, Insomnia, NPM, Playwright
 
 ## 🚀 Proyectos personales
 - [Portfolio web](https://franco-rigante-portfolio.netlify.app/)  
