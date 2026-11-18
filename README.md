@@ -1,12 +1,17 @@
 # 👋 Hola, soy Franco Rigante
 
-Soy estudiante de la carrera en Licenciatura en Artes Electrónicas. Trabajo actualmente como Desarrollador de Software en Softtek. Me interesa seguir desarrollandome y aprendiendo en las áreas del desarrollo web, la ciberseguridad y el diseño de videojuegos.
+Soy Desarrollador de Software con experiencia en el desarrollo de aplicaciones web, especializado principalmente en React y TypeScript.
+
+Actualmente trabajo en Softtek, donde participo en proyectos de desarollo de software para clientes, construyendo funcionalidades y desarrollando demos y Proofs of Concept (POCs).
+
+También cuento con conocimientos de desarrollo Backend utilizando Node.js, integración de APIs, bases de datos y testing automatizado. Me interesa seguir creciendo profesionalmente, profundizar mis conocimientos en ingeniería de software y participar en proyectos que presenten nuevos desafíos técnicos.
 
 ## 🛠️ Tecnologías y herramientas que utilizo/utilicé
-**💻 Lenguajes:** Javascript, Typescript, CSS
-**⚙️ Frameworks:** React, Astro, Vite
-**🗄️ Bases de datos:** Firebase
-**🛠️ Herramientas:** Git, Insomnia, NPM, Playwright
+**💻 Lenguajes:** JavaScript, TypeScript, SQL, Python
+**⚙️ Frameworks:** React, Node.js, Astro, Vite, Tailwind CSS, Material UI
+**🗄️ Bases de datos:** PostgreSQL, Firebase (Firestore)
+**🛠️ Testing:** Playwright, Jest
+**🛠️ Herramientas:** Git, GitHub, NPM,
 
 ## 🚀 Proyectos personales
 - [Portfolio web](https://franco-rigante-portfolio.netlify.app/)  
